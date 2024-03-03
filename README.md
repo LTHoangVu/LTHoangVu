@@ -20,7 +20,7 @@
     alt="Slack"
     target="_blank"
   >
-    <img src="https://icons8.com/icon/nJcA2q1aR7KO/slack-new" />
+    <img src="https://img.icons8.com/plasticine/100/slack-new.png" alt="slack-new"/>
   </a>
   <a href="mailto:lthoangvu03052003@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png" />
