@@ -7,23 +7,31 @@
     href="https://www.facebook.com/profile.php?id=100026563503598"
     alt="Facebook"
   >
-    <img
-      src="https://img.icons8.com/fluent/48/000000/facebook-new.png"
+    <img width="75" height="75" 
+      src="https://img.icons8.com/plasticine/100/facebook-new.png" alt="facebook-new"
       target="_blank"
     />
   </a>
   <a href="https://github.com/LTHoangVu" alt="Github">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" />
+    <img width="64" height="64"
+      src="https://img.icons8.com/wired/64/github.png" alt="github"
+      target="_blank"
+    />
   </a>
   <a
     href="https://sun-xseeds.slack.com/team/U0411NYKB28"
     alt="Slack"
     target="_blank"
   >
-    <img src="https://img.icons8.com/plasticine/100/slack-new.png" alt="slack-new"/>
+    <img width="64" height="64"
+      src="https://img.icons8.com/plasticine/100/slack-new.png" alt="slack-new"
+    />
   </a>
   <a href="mailto:lthoangvu03052003@gmail.com" alt="Email">
-    <img src="https://img.icons8.com/fluent/48/000000/mailing.png" />
+    <img width="64" height="64" 
+      src="https://img.icons8.com/plasticine/100/gmail-new.png" alt="gmail-new"
+      target="_blank"
+    />
   </a>
 </p>
 <!--
